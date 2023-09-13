@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SERIESPLAY117</string>
+    <string name="app_logo">logo de inicio</string>
+    <string name="app_logo2">logo de login</string>
+    <string name="app_logo3">logo de iniciar</string>
+    <string name="app_logo4">logo de Register</string>
+    <string name="app_diover">DIOVER SERNA</string>
+    <string name="app_diagon117">(DIAGON117)</string>
+    <string name="app_button">INICIAR SESION</string>
+    <string name="app_button2">Register</string>
+    <string name="app_e_mail">Correo Eletronico&#9829;</string>
+    <string name="app_password">password&#9829;</string>
+    <string name="app_red">tw&#9829;</string>
+    <string name="app_red2">facebook&#9829;</string>
+    <string name="app_red3">www&#9829;</string>
+    <string name="app_red4">youtube&#9829;</string>
+    <string name="app_red5">tiktok&#9829;</string>
+    <string name="app_bienvenidos">Bienvenidos&#9829;A Seriesplay117</string>
+    <string name="app_el_mejor">EL MEJOR CONTENIDO FULL</string>
+    <string name="app_tu_nombre">NOMBRE</string>
+    <string name="app_apellido">APELLIDO</string>
+    <string name="app_email2">E-MAIL&#9829;</string>
+    <string name="app_password2">password&#9829;</string>
+    <string name="app_Registerbutton">REGISTER&#9829;</string>
+</resources>
